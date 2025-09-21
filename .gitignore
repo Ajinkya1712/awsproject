@@ -1,0 +1,8 @@
+# Ignore all log files
+*.log
+
+# Ignore all WAR (web archive) files
+*.war
+
+# Ignore all RAR (compressed) files
+*.rar
